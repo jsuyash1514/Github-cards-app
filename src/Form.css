@@ -1,0 +1,15 @@
+.form{
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+    width: 100%;
+}
+
+.usernameInputField{
+    width: 15%;
+    align-self: flex-start;
+}
+
+.formButton{
+    margin-left: 10px;
+}

@@ -1,0 +1,5 @@
+.cardList{
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+}

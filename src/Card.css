@@ -1,0 +1,36 @@
+.card{
+    height: max-content;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: 10px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.card-img{
+    height: max-content;
+}
+
+.card-descr{
+    height: max-content;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.delete-button{
+    margin-top: 20px;
+    border: 2px solid crimson;
+    border-radius: 5px;
+    color: crimson;
+    background-color: white;
+}
+
+.left{
+    width: 30%;
+}
+
+.right{
+    width: 70%;
+}
